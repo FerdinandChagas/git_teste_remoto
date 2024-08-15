@@ -1,3 +1,4 @@
 Arquivo de testes para testar o git.
 Alteração no arquivo.
 Arquivo alterado na branch develop.
+Mais uma alteração para testar o git diff.
