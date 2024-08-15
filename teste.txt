@@ -1,1 +1,2 @@
 Arquivo de testes para testar o git.
+Alteração no arquivo.
